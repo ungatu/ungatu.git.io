@@ -1,13 +1,3 @@
----
-layout: post
-title: 'CSAPP第8章笔记'
-date: 2021-04-17
-author: ungatu
-color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
-tags: x86 汇编语言  保护模式
----
-
 # x86 汇编语言 从实模式到保护模式
 
 ##资源配套下载
@@ -16,6 +6,6 @@ tags: x86 汇编语言  保护模式
 
 推荐下载好了，里面有用到的工具和教程！
 
-##
+## 实验
 nasm压缩包解压后运行闪退，无反应，因为该运行.bat
 推荐下载nasm-2.14.02-installer-x64.exe

@@ -5,25 +5,17 @@
 ### Time Line
 
 [2021-04-24 CSTEP 前六章笔记](CSTEP/2020-04-22-ostep.md)
+
 [2021-04-23 CSAPP 第八章笔记](CSAPP/2021-04-17-csappCh8.md)
+
 [2021-04-17 HIT CSAPP Lab1](HIT_Lab/hitcs_lab1.md)
+
 [2021-03-25 HIT CSAPP Lab2](HIT_Lab/hitcs_lab2.md)
+
 [2021-03-11 HIT CSAPP Lab3](HIT_Labhitcs_lab3.md)
+
 [x86 汇编语言 从实模式到保护模式](x86-asm.md)
 
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### Book Recommand
 
