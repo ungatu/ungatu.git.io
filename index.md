@@ -10,6 +10,8 @@
 
 [2021-05-2 gdb的一些简单功能](Tool/2020-5-2gdb.md)
 
+[2021-04-24 OSTEP 第七章笔记](OSTEP/2020-04-30-ostep.md)
+
 [2021-04-29 CSAPP 第七章笔记](CSAPP/2021-04-28-csappCh7.md)
 
 [2021-04-27 mit6.828 Lab util](6.828/2020-4-27-Lab_util.md)
@@ -22,11 +24,13 @@
 
 [2021-04-25 K&R C 第五章笔记](C/2020-4-25-Ch6.md)
 
-[2021-04-24 CSTEP 第七章笔记](OSTEP/2020-04-23-ostep.md)
+[2021-04-24 OSTEP 第十六章笔记](OSTEP/2020-04-25-ostep.md)
 
-[2021-04-22 CSTEP 前六章笔记](OSTEP/2020-04-22-ostep.md)
+[2021-04-24 OSTEP 第七章笔记](OSTEP/2020-04-23-ostep.md)
 
 [2021-04-23 CSAPP 第八章笔记](CSAPP/2021-04-17-csappCh8.md)
+
+[2021-04-22 OSTEP 前六章笔记](OSTEP/2020-04-22-ostep.md)
 
 [2021-04-17 HIT CSAPP Lab3](HIT_Lab/hitcs_lab3.md)
 
